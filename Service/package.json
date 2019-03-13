@@ -1,0 +1,31 @@
+{
+  "name": "information-final",
+  "version": "1.0.0",
+  "description": "final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dormunsa/Information-final.git"
+  },
+  "author": "Dor Munsa and Ori Kfir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dormunsa/Information-final/issues"
+  },
+  "homepage": "https://github.com/dormunsa/Information-final#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.3-alpha.1",
+    "file-system": "^2.2.2",
+    "mongoose": "^5.4.19",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.3",
+    "soundex-code": "^1.0.3",
+    "stemmer": "^1.0.3",
+    "unzip": "^0.1.11"
+  }
+}
